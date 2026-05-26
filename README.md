@@ -75,6 +75,8 @@ GET /api/parking
 frontend/
 backend/
 ```
+## API Postman Images
+<img width="1276" height="978" alt="Screenshot 2026-05-26 115059" src="https://github.com/user-attachments/assets/dd6a3e71-e055-4665-bbd5-402020d033bf" />
 
 ## Author
 
