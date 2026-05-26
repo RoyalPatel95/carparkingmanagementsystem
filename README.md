@@ -68,7 +68,9 @@ PUT /api/parking/exit/:id
 ```http
 GET /api/parking
 ```
-
+## .env
+PORT=3000
+MONGO_URI=mongodb+srv://<username-passowrd>@cluster0.vny3dpc.mongodb.net/
 ## Folder Structure
 
 ```bash
